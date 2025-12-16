@@ -1,5 +1,5 @@
 # Backend-Practical-Project
-동양미래대학교 3학년 2학기 백엔드 실무 프로젝트 실습 파일 백업
+동양미래대학교 3학년 1학기 백엔드 실무 프로젝트 실습 파일 백업
 <img width="1162" height="781" alt="image" src="https://github.com/user-attachments/assets/375bc0c3-cd79-4bc2-abc9-3ccb29434d2b" />
 <img width="1048" height="673" alt="image" src="https://github.com/user-attachments/assets/af22ca7c-18ab-4db2-bdf9-3a4abad67b86" />
 <img width="1015" height="663" alt="image" src="https://github.com/user-attachments/assets/07ad2a57-149a-4dfb-b0a0-1ac8a99696ce" />
